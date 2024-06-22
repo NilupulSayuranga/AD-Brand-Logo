@@ -1,4 +1,4 @@
-#Design Coopyright by Amila Dasanayake
+#Design Copyright by Amila Dasanayake
 #Recreated & Coded by Nilupul Sayuranga
 
 from turtle import *
