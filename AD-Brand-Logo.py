@@ -1,3 +1,6 @@
+#Design Coopyright by Amila Dasanayake
+#Recreated & Coded by Nilupul Sayuranga
+
 from turtle import *
 
 speed(0)
